@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 
-pizza = pd.read_csv("pizza.csv")
+pizza = pd.read_csv("https://raw.githubusercontent.com/allatambov/LinStat25/refs/heads/main/pizza.csv")
 pizza.head()
 
 X = pizza.select_dtypes(float)
