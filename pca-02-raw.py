@@ -3,7 +3,7 @@
 import pandas as pd
 from pca import pca
 
-df = pd.read_csv("city24.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/allatambov/LinStat25/refs/heads/main/city24.csv")
 df = df.dropna()
 df.head()
 
