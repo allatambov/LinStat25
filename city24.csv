@@ -1,0 +1,116 @@
+,City,Decibel_Level,Traffic_Density,Green_Space_Area,Air_Quality_Index,Happiness_Score,Cost_of_Living_Index,Healthcare_Index
+0,New York,70,High,35,40,6.5,100,80
+1,Los Angeles,65,Medium,40,50,6.8,90,75
+2,Chicago,60,Medium,30,55,7.0,85,70
+3,London,55,High,50,60,7.2,110,85
+4,Paris,60,High,45,65,6.9,95,80
+5,Berlin,50,Low,55,35,7.5,80,85
+6,Tokyo,65,High,30,70,6.0,120,90
+7,Seoul,70,High,25,75,5.8,105,75
+8,Mumbai,80,Very High,15,80,4.5,70,60
+9,Sydney,55,Low,60,30,7.8,115,88
+10,Istanbul,75,High,45,85,6.8,75,70
+11,Rio de Janeiro,65,Medium,50,55,6.5,80,75
+12,Toronto,60,Medium,55,40,7.1,95,85
+13,Mexico City,70,Very High,35,90,5.2,65,60
+14,Cape Town,55,Low,60,45,7.6,70,80
+15,Bangkok,80,High,25,110,4.0,50,55
+16,Buenos Aires,65,High,40,60,6.1,60,75
+17,Amsterdam,50,Low,75,50,7.9,105,90
+18,Cairo,75,Very High,20,115,3.5,55,65
+19,Moscow,60,High,30,80,5.8,70,80
+20,Singapore,65,High,45,60,7.0,125,95
+21,Dubai,70,Medium,35,120,6.0,110,85
+22,Hong Kong,75,High,25,100,5.5,130,90
+23,Barcelona,60,Medium,65,35,7.7,90,85
+24,Lisbon,55,Low,70,40,7.8,75,82
+25,Melbourne,55,Low,60,45,7.9,115,90
+26,Auckland,50,Low,80,35,8.1,100,95
+27,Rome,60,High,40,70,6.7,85,80
+28,Athens,65,Medium,45,75,6.2,70,75
+29,Vienna,55,Low,70,30,8.2,95,95
+30,Dublin,60,Medium,55,40,7.0,105,85
+31,Copenhagen,50,Low,75,35,8.3,110,98
+32,Stockholm,55,Low,80,30,8.0,100,97
+33,Oslo,50,Low,85,25,8.5,115,99
+34,Helsinki,55,Low,90,20,8.4,90,95
+35,Prague,60,Medium,50,65,7.3,80,85
+36,Budapest,65,Medium,45,70,6.8,75,80
+37,Warsaw,60,Medium,40,75,6.7,70,82
+38,Sofia,70,High,35,80,6.0,60,75
+39,Belgrade,75,High,30,85,5.5,55,70
+40,São Paulo,70,High,40,95,5.0,65,75
+41,Lima,75,Very High,25,100,4.2,55,60
+42,Santiago,65,High,35,105,5.5,70,70
+43,Bogota,70,High,30,110,5.0,60,65
+44,Caracas,75,Very High,20,115,3.0,50,55
+45,Quito,65,High,25,120,4.5,55,60
+46,Panama City,70,Medium,30,125,5.8,60,65
+47,Kingston,75,High,25,130,5.5,65,70
+48,Havana,65,Medium,35,135,6.0,50,60
+49,Santo Domingo,70,High,30,140,5.5,55,65
+50,San Juan,75,High,25,145,6.0,70,70
+51,Manila,80,Very High,20,150,4.5,45,55
+52,Kuala Lumpur,75,High,25,160,5.2,55,60
+53,Taipei,70,High,30,165,5.8,75,70
+54,Shanghai,75,Very High,20,170,5.0,80,75
+55,Beijing,80,Very High,15,175,4.5,85,70
+56,New Delhi,85,Very High,10,180,3.5,60,55
+57,Tehran,80,Very High,15,185,3.0,45,50
+58,Karachi,85,Very High,10,190,3.0,40,45
+59,Dhaka,90,Very High,5,195,2.5,35,40
+60,Colombo,75,High,25,200,5.5,45,60
+61,Islamabad,80,Very High,20,205,3.5,40,55
+62,Kathmandu,75,High,25,210,4.5,35,50
+63,Yangon,80,Very High,20,215,3.5,30,45
+64,Hanoi,85,Very High,15,220,3.0,35,40
+65,Phnom Penh,80,Very High,10,225,2.5,30,35
+66,Vientiane,75,High,15,230,4.0,25,40
+67,Bangalore,85,Very High,10,235,3.5,45,55
+68,Ho Chi Minh City,90,Very High,5,240,2.8,40,50
+69,Jakarta,85,Very High,10,245,3.0,35,45
+70,Perth,60,Low,60,50,7.7,110,89
+71,Adelaide,55,Low,65,45,7.8,105,90
+72,Brisbane,60,Low,70,40,7.9,100,91
+73,Canberra,55,Low,75,35,8.0,95,92
+74,Wellington,50,Low,80,30,8.1,90,93
+75,Christchurch,55,Low,85,25,8.2,85,94
+76,Dunedin,50,Low,90,20,8.3,80,95
+77,Queenstown,55,Low,95,15,8.4,75,96
+78,Nelson,50,Low,100,10,8.5,70,97
+79,Hamilton,60,Medium,110,35,8.2,60,95
+80,Tauranga,55,Low,115,30,8.3,55,96
+81,Rotorua,50,Low,120,25,8.4,50,97
+82,Palmerston North,55,Low,125,20,8.5,45,98
+83,New Plymouth,60,Medium,130,35,8.1,40,95
+84,Lower Hutt,55,Low,135,30,8.2,35,96
+85,Napier,50,Low,140,25,8.3,30,97
+86,Gisborne,55,Low,145,20,8.4,25,98
+87,Kawerau,60,Medium,150,35,8.0,20,95
+88,Putaruru,55,Low,155,30,8.1,25,96
+89,Taupo,50,Low,160,25,8.2,20,97
+90,Tokoroa,55,Low,165,20,8.3,25,98
+91,Te Kuiti,60,Medium,170,35,7.9,20,95
+92,Otorohanga,55,Low,175,30,8.0,25,96
+93,Te Awamutu,50,Low,180,25,8.1,20,97
+94,Cambridge,55,Low,185,20,7.8,25,98
+95,Matamata,60,Medium,190,35,7.6,20,95
+96,Te Aroha,55,Low,195,30,7.7,25,96
+97,Paeroa,50,Low,200,25,7.8,20,97
+98,Waihi,55,Low,205,20,7.5,25,98
+99,Whangamata,60,Medium,210,35,7.3,20,95
+100,Tairua,55,Low,215,30,7.4,25,96
+101,Whitianga,50,Low,220,25,7.5,20,97
+102,Coromandel,55,Low,225,20,7.2,25,98
+103,Whangaparaoa,60,Medium,230,35,7.0,20,95
+104,Orewa,55,Low,235,30,7.1,25,96
+105,Warkworth,50,Low,240,25,6.8,20,97
+106,Matakana,55,Low,245,20,6.5,25,98
+107,Leigh,60,Medium,250,35,6.2,20,95
+108,Wellsford,55,Low,255,30,6.0,25,96
+109,Mangawhai,50,Low,260,25,5.8,20,97
+110,Te Hana,55,Low,265,20,5.5,25,98
+111,Waipu,60,Medium,270,35,5.2,20,95
+112,Ruakaka,55,Low,275,30,5.0,25,96
+113,Whangarei,50,Low,280,25,4.8,20,97
+114,Dargaville,55,Low,285,20,4.5,25,98
