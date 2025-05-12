@@ -12,7 +12,7 @@ X = pizza.select_dtypes(float)
 X.head()
 
 X.corr()
-pd.plotting.scatter_matrix(X);
+pd.plotting.scatter_matrix(X, figsize = (14, 14));
 
 X_scaled = StandardScaler().fit_transform(X)
 X_scaled = pd.DataFrame(X_scaled)
@@ -21,7 +21,7 @@ X_scaled.head()
 
 X_scaled.describe().round(2)
 X_scaled.corr()
-pd.plotting.scatter_matrix(X_scaled);
+pd.plotting.scatter_matrix(X_scaled, figsize = (14, 14));
 
 print(X_scaled.shape)
 p = X_scaled.shape[1]
