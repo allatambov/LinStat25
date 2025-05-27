@@ -71,3 +71,7 @@ sns.scatterplot(data = flats,
                 x = "lon", y = "lat", 
                 hue = "cluster_c", 
                 s = 120, ax = axes);
+
+# https://disk.yandex.ru/i/BdIJFXS_yxXOnw
+npk = pd.read_excel("NPK25_share.xlsx")
+heroes = npk.columns[4:14]
