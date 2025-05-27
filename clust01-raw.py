@@ -55,7 +55,7 @@ print(flats.groupby("cluster_c")["floor"].agg(["count", "mean", "min", "max"]))
 !pip install geopandas
 import geopandas as gpd
 
-df_geo = gpd.read_file("Москва_Moscow.geojson")
+df_geo = gpd.read_file("https://raw.githubusercontent.com/allatambov/LinStat25/refs/heads/main/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_Moscow.geojson")
 df_geo.boundary.plot();
 
 out = ["Троицкий административный округ", "район Кунцево", "район Силино", 
