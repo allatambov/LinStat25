@@ -30,6 +30,7 @@ to_clust.groupby("group_cb")["WithoutCoffee"].describe()
 to_clust.groupby("group_cb")[list(add.columns)].mean()
 
 # Solution 02: Gower distance for mixed-type data
+#https://pypi.org/project/gower/#:~:text=Gower%20Distance%20is%20a%20distance,Biometrics%2027%20857%E2%80%93874.
 
 !pip install gower
 import gower
