@@ -22,3 +22,7 @@
 * Геоданные в geojson: репозиторий [timurkanaz](https://github.com/timurkanaz/Russia_geojson_OSM)
 * Kaggle: [pizza.csv](https://www.kaggle.com/datasets/shishir349/can-pizza-be-healthy), [city24.csv](https://www.kaggle.com/datasets/emirhanai/city-happiness-index-2024), [coffee_and_code.csv](https://www.kaggle.com/datasets/shrutikunapuli/coffee-and-code-dataset)
 * ЦИАН: оригинальная выгрузка по состоянию на апрель-май 2025.
+
+### Домашнее задание
+
+* Файл `hw-cluster.ipynb`, дедлайн 16 июня 12:00.
